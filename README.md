@@ -13,13 +13,13 @@ Software Engineer · Full-Stack · Cloud · IoT
 
 <br/><br/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,js,react,angular,azure,aws,gcp,raspberrypi,postgres&theme=dark" /><img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,js,react,angular,azure,aws,gcp,raspberrypi,postgres&theme=light" alt="Core stack" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/sqlserver.svg" /><img src="./icons/sqlserver-light.svg" alt="SQL Server" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Cdotnet%2Ccpp%2Cpy%2Cjs%2Creact%2Cangular%2Cazure%2Caws%2Cgcp%2Craspberrypi%2Cpostgres&theme=dark" /><img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,py,js,react,angular,azure,aws,gcp,raspberrypi,postgres&theme=light" alt="Core stack" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/sqlserver.svg" /><img src="./icons/sqlserver-light.svg" alt="SQL Server" /></picture>
 
 <details>
   <summary><b>Full tech stack</b></summary>
   <br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,cpp,c,py,js,php,html,css,dotnet,angular,react,nodejs,bootstrap,git,githubactions&theme=dark" /><img src="https://skillicons.dev/icons?i=cs,cpp,c,py,js,php,html,css,dotnet,angular,react,nodejs,bootstrap,git,githubactions&theme=light" alt="Languages, frameworks and tools" /></picture><br/>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,firebase,nginx,raspberrypi,ps,postgres,mysql,mongodb,redis,sqlite&theme=dark" /><img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,firebase,nginx,raspberrypi,ps,postgres,mysql,mongodb,redis,sqlite&theme=light" alt="Cloud, IoT and databases" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/sqlserver.svg" /><img src="./icons/sqlserver-light.svg" alt="SQL Server" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs%2Ccpp%2Cc%2Cpy%2Cjs%2Cphp%2Chtml%2Ccss%2Cdotnet%2Cangular%2Creact%2Cnodejs%2Cbootstrap%2Cgit%2Cgithubactions&theme=dark" /><img src="https://skillicons.dev/icons?i=cs,cpp,c,py,js,php,html,css,dotnet,angular,react,nodejs,bootstrap,git,githubactions&theme=light" alt="Languages, frameworks and tools" /></picture><br/>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=azure%2Caws%2Cgcp%2Ccloudflare%2Cfirebase%2Cnginx%2Craspberrypi%2Cps%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Csqlite&theme=dark" /><img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,firebase,nginx,raspberrypi,ps,postgres,mysql,mongodb,redis,sqlite&theme=light" alt="Cloud, IoT and databases" /></picture><picture><source media="(prefers-color-scheme: dark)" srcset="./icons/sqlserver.svg" /><img src="./icons/sqlserver-light.svg" alt="SQL Server" /></picture>
   <br/>
   <sub>Also: Blazor · Xamarin · React Native · MariaDB · MQTT (Mosquitto) · Linode · OpenAPI</sub>
 </details>
