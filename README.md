@@ -2,9 +2,11 @@
 
 <div align="center">
 
-# Anwar Minarso
+# Anwar Minarso ![](https://komarev.com/ghpvc/?username=anwarminarso&color=blue)
 
 Software Engineer · Full-Stack · Cloud · IoT
+
+
 
 <a href="https://linkedin.com/in/anwarminarso">LinkedIn</a> ·
 <a href="https://x.com/anwarminarso">X</a> ·
